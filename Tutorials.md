@@ -1,7 +1,10 @@
 # Tutorials
 This is a conglomeration of a bunch of links about things we're using or will use.
 
+
+## Table of Contents 
 - [Tutorials](#tutorials)
+  - [Table of Contents](#table-of-contents)
   - [Python](#python)
     - [Basics](#basics)
       - [Description](#description)
