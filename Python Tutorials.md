@@ -34,7 +34,7 @@ This is a conglomeration of a bunch of links about things we're using or will us
 ## PyGame
 #### Description
 #### Links
-- PyGame TechWithTim [Video](https://www.youtube.com/watch?v=jO6qQDNa2UY) [Repo](https://github.com/techwithtim/PygameForBeginners.git)
+- PyGame TechWithTim [Video](https://www.youtube.com/watch?v=jO6qQDNa2UY)/[Repo](https://github.com/techwithtim/PygameForBeginners.git)
 
 ## Pandas
 #### Description
