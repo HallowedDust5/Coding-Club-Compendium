@@ -30,6 +30,7 @@ This is a conglomeration of a bunch of links about things we're using or will us
 ## Basics
 #### Description
 #### Links
+- Python [Download](https://www.python.org/downloads/)
 
 ## PyGame
 #### Description
