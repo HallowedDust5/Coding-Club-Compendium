@@ -70,11 +70,3 @@ while True: #Game loop
     if drawing:
         pygame.draw.circle(DISPLAY_SURFACE, current_color, mouse_pos,circle_radius)
  
- 
- 
-    
-#TODO
-# Scale the marker w arrows
-# Have an input box that lets you change the color, preset or custom
-# Change the shape on input
-# Mouseclick to start and stop the draw
