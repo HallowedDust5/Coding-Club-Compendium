@@ -7,15 +7,21 @@
 - [Phaser](#phaser)
     - [Description](#description-2)
     - [Links](#links-2)
-- [BoardgameIO](#boardgameio)
+- [Melon JS](#melon-js)
     - [Description](#description-3)
     - [Links](#links-3)
-- [React](#react)
+- [Kiwi JS](#kiwi-js)
     - [Description](#description-4)
     - [Links](#links-4)
-- [jQuery](#jquery)
+- [BoardgameIO](#boardgameio)
     - [Description](#description-5)
     - [Links](#links-5)
+- [React](#react)
+    - [Description](#description-6)
+    - [Links](#links-6)
+- [jQuery](#jquery)
+    - [Description](#description-7)
+    - [Links](#links-7)
  
  
  
@@ -47,7 +53,19 @@ Node.js is an open-source, cross-platform, back-end JavaScript runtime environme
 Phaser is a fast, free, and fun open source HTML5 game framework that offers WebGL and Canvas rendering across desktop and mobile web browsers. Games can be compiled to iOS, Android and native apps by using 3rd party tools. You can use JavaScript or TypeScript for development.
 #### Links
 - [Documentation](https://photonstorm.github.io/phaser3-docs/)
+
+## Melon JS
+#### Description
+A fresh and lightweight 2D sprite-based engine. Standalone library (no additional dependencies). Fast WebGL renderer for desktop and mobile devices with fallback to Canvas rendering. Tiled map format for easy level design.
+#### Links
+- [Documentation](http://melonjs.github.io/tutorial-platformer/)
  
+## Kiwi JS
+#### Description
+Kiwi.js is the world's easiest to use Open Source HTML5 game framework for making both mobile and desktop HTML5 browser games. Our focus is blazingly fast WebGL rendering and complementary tools to make professional quality serious games. We use CocoonJS for publishing games and App creation.
+#### Links
+- [Documentation](http://www.kiwijs.org/api/)
+
 ## BoardgameIO
 #### Description
 Open Source Game Engine for Turn-Based Games
