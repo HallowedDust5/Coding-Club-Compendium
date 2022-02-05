@@ -53,6 +53,7 @@ Node.js is an open-source, cross-platform, back-end JavaScript runtime environme
 Phaser is a fast, free, and fun open source HTML5 game framework that offers WebGL and Canvas rendering across desktop and mobile web browsers. Games can be compiled to iOS, Android and native apps by using 3rd party tools. You can use JavaScript or TypeScript for development.
 #### Links
 - [Documentation](https://photonstorm.github.io/phaser3-docs/)
+- [Code Snippets](http://labs.phaser.io/)
 
 ## Melon JS
 #### Description
