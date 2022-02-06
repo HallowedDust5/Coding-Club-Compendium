@@ -54,6 +54,8 @@ Phaser is a fast, free, and fun open source HTML5 game framework that offers Web
 #### Links
 - [Documentation](https://photonstorm.github.io/phaser3-docs/)
 - [Code Snippets](http://labs.phaser.io/)
+- [How Scenes Work](https://github.com/jdotrjs/phaser-guides/blob/master/Basics/Part3.md)
+- [First Game](https://gamedevacademy.org/phaser-3-tutorial/#Learn_by_making_your_first_game)
 
 ## Melon JS
 #### Description
